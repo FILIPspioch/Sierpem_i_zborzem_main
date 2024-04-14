@@ -1,0 +1,16 @@
+Sianem_i_Sierpem_VAM/Binaries/Win64/D3D12/D3D12Core.dll	2023-11-17T17:59:53.773Z
+Sianem_i_Sierpem_VAM/Binaries/Win64/OpenImageDenoise.dll	2023-11-17T23:42:16.251Z
+Sianem_i_Sierpem_VAM/Binaries/Win64/Sianem_i_Sierpem_VAM-Win64-Shipping.exe	2024-04-14T18:43:05.450Z
+Sianem_i_Sierpem_VAM/Binaries/Win64/tbb.dll	2023-11-17T17:55:47.873Z
+Sianem_i_Sierpem_VAM/Binaries/Win64/tbb12.dll	2023-11-17T23:41:39.036Z
+Sianem_i_Sierpem_VAM/Binaries/Win64/tbbmalloc.dll	2023-11-17T17:55:50.631Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-11-17T19:46:14.112Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-11-17T17:39:53.575Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-11-17T17:57:44.386Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-11-17T17:57:44.402Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-11-17T17:57:44.433Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-11-17T17:59:50.961Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-11-17T17:59:50.961Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-11-17T18:00:03.249Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-11-17T18:36:43.594Z
+Sianem_i_Sierpem_VAM.exe	2024-04-14T18:46:58.110Z
