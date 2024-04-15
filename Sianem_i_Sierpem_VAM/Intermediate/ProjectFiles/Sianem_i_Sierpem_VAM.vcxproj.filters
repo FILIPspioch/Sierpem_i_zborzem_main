@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sianem_i_Sierpem_VAM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sianem_i_Sierpem_VAM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Sianem_i_Sierpem_VAMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sianem_i_Sierpem_VAM">
+      <UniqueIdentifier>{CEE1B1DE-1E26-35E8-848A-521AE712DCA3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sianem_i_Sierpem_VAM\IntroGameCharacter.cpp">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sianem_i_Sierpem_VAM\IntroGameCharacter.h">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sianem_i_Sierpem_VAM\MainGameCharacter.cpp">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sianem_i_Sierpem_VAM\MainGameCharacter.h">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.Build.cs">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.h">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
