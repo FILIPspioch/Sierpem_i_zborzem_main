@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"F:\\TWORZENIE GIER\\UE5\\Sierpem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAM\\Sianem_i_Sierpem_VAM.Build.cs",
-		"F:\\TWORZENIE GIER\\UE5\\Sierpem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAM.Target.cs",
-		"F:\\TWORZENIE GIER\\UE5\\Sierpem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAMEditor.Target.cs"
+		"C:\\Users\\Brajan\\Desktop\\Sierpem_i_zborzem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAM\\Sianem_i_Sierpem_VAM.Build.cs",
+		"C:\\Users\\Brajan\\Desktop\\Sierpem_i_zborzem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAM.Target.cs",
+		"C:\\Users\\Brajan\\Desktop\\Sierpem_i_zborzem_main\\Sianem_i_Sierpem_VAM\\Source\\Sianem_i_Sierpem_VAMEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

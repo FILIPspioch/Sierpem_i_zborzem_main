@@ -5,15 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/Main_Menu_Map.umap",
-				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/WB_MainMenu.uasset",
-				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Game_Map/Main_Game_Map.umap",
-				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/UI_Assets/wizualizacja.uasset",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Game_Map/Main_Game_Map.umap",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/Main_Menu_Map.umap",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Intro_Map/Intro_Map.umap",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Player_Components/MGC_Components/Blueprints/Bp_MainGameCharacter.uasset",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Player_Components/IC_Components/Blueprints/Bp_IntroGameCharacter.uasset",
+				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/UI_Assets/GuzikGraf.uasset",
+				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/WB_MainMenu.uasset",
+				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/Main_Menu_Map.umap",
+				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/WB_MainMenu.uasset",
+				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Game_Map/Main_Game_Map.umap",
+				"F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Menu_Map/UI/UI_Assets/wizualizacja.uasset",
 				"C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Content/Main_Maps/Main_Game_Map/Main_Game_Map_BuiltData.uasset"
 			]
 		}

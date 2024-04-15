@@ -1,11 +1,11 @@
-"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Source\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp"
-/FI"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Definitions.Sianem_i_Sierpem_VAM.h"
-/Yu"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp.obj"
-/sourceDependencies "F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp.dep.json"
-@"F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.Shared.rsp"
+"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Source\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp"
+/FI"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Definitions.Sianem_i_Sierpem_VAM.h"
+/Yu"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\Sianem_i_Sierpem_VAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp.obj"
+/sourceDependencies "C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.cpp.dep.json"
+@"C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\Sianem_i_Sierpem_VAM\Sianem_i_Sierpem_VAM.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

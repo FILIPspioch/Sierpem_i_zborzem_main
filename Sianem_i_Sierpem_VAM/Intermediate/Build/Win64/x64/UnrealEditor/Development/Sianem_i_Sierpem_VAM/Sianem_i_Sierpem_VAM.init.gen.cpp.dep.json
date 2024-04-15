@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\unrealeditor\\inc\\sianem_i_sierpem_vam\\uht\\sianem_i_sierpem_vam.init.gen.cpp",
+        "Source": "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\unrealeditor\\inc\\sianem_i_sierpem_vam\\uht\\sianem_i_sierpem_vam.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\sianem_i_sierpem_vameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\sianem_i_sierpem_vameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sianem_i_sierpem_vam\\definitions.sianem_i_sierpem_vam.h"
+            "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sianem_i_sierpem_vam\\definitions.sianem_i_sierpem_vam.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

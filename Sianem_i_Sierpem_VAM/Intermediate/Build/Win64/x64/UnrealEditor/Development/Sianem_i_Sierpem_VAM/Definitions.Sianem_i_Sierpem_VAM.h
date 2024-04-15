@@ -1,4 +1,4 @@
-#include "F:/TWORZENIE GIER/UE5/Sierpem_main/Sianem_i_Sierpem_VAM/Intermediate/Build/Win64/x64/Sianem_i_Sierpem_VAMEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "C:/Users/Brajan/Desktop/Sierpem_i_zborzem_main/Sianem_i_Sierpem_VAM/Intermediate/Build/Win64/x64/Sianem_i_Sierpem_VAMEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED

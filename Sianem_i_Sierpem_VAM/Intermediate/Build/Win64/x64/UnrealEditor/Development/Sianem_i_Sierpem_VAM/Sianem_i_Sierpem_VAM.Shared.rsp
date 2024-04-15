@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\UnrealEditor\Inc\Sianem_i_Sierpem_VAM\UHT"
-/I "F:\TWORZENIE GIER\UE5\Sierpem_main\Sianem_i_Sierpem_VAM\Source"
+/I "C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Intermediate\Build\Win64\UnrealEditor\Inc\Sianem_i_Sierpem_VAM\UHT"
+/I "C:\Users\Brajan\Desktop\Sierpem_i_zborzem_main\Sianem_i_Sierpem_VAM\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"

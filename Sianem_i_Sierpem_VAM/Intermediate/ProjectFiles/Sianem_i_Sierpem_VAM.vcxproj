@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{08181763-E34F-332E-AF43-AE3029FA81A3}</ProjectGuid>
+    <ProjectGuid>{D9DA8C0C-D97F-38EA-95B9-E6D64F134BFF}</ProjectGuid>
     <RootNamespace>Sianem_i_Sierpem_VAM</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
