@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sianem_i_Sierpem_VAM",
+			"Path": "..\\Source\\Sianem_i_Sierpem_VAM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sianem_i_Sierpem_VAMEditor",
+			"Path": "..\\Source\\Sianem_i_Sierpem_VAMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

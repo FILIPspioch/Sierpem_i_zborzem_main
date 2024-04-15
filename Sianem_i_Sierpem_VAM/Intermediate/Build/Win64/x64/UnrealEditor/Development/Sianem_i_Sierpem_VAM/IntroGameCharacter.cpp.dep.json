@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\source\\sianem_i_sierpem_vam\\introgamecharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\sianem_i_sierpem_vameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sianem_i_sierpem_vam\\definitions.sianem_i_sierpem_vam.h",
+            "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\source\\sianem_i_sierpem_vam\\introgamecharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "f:\\tworzenie gier\\ue5\\sierpem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\unrealeditor\\inc\\sianem_i_sierpem_vam\\uht\\introgamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
