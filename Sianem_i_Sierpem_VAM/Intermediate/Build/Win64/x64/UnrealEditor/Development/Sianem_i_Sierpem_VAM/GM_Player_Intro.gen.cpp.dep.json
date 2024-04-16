@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\unrealeditor\\inc\\sianem_i_sierpem_vam\\uht\\gm_player_intro.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\sianem_i_sierpem_vameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sianem_i_sierpem_vam\\definitions.sianem_i_sierpem_vam.h",
+            "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\source\\sianem_i_sierpem_vam\\gm_player_intro.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\brajan\\desktop\\sierpem_i_zborzem_main\\sianem_i_sierpem_vam\\intermediate\\build\\win64\\unrealeditor\\inc\\sianem_i_sierpem_vam\\uht\\gm_player_intro.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -6,6 +6,15 @@
 #include "GameFramework/Character.h"
 #include "IntroGameCharacter.generated.h"
 
+
+class UCameraComponent;
+class USpringArmComponent;
+
+class UInputMappingContext;
+class UInputAction;
+
+struct FInputActionValue;
+
 UCLASS()
 class SIANEM_I_SIERPEM_VAM_API AIntroGameCharacter : public ACharacter
 {
@@ -25,5 +34,22 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+private:
+	UPROPERTY(EditAnywhere)
+	UCameraComponent* Camera;
+
+	UPROPERTY(EditAnywhere)
+	UInputMappingContext* MappingContext;
+
+	UPROPERTY(EditAnywhere)
+	UInputAction* MoveAction;
+
+	UPROPERTY(EditAnywhere)
+	UInputAction* LookAction;
+
+
+	void Move(const FInputActionValue& Value);
+	void Look(const FInputActionValue& Value);
 
 };

@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Sianem_i_Sierpem_VAMEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\Sianem_i_Sierpem_VAM">
       <UniqueIdentifier>{CEE1B1DE-1E26-35E8-848A-521AE712DCA3}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Sianem_i_Sierpem_VAM\GM_Player_Intro.cpp">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sianem_i_Sierpem_VAM\GM_Player_Intro.h">
+      <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Sianem_i_Sierpem_VAM\IntroGameCharacter.cpp">
       <Filter>Source\Sianem_i_Sierpem_VAM</Filter>
     </ClCompile>
